@@ -1,0 +1,3 @@
+[submodule "grand_child"]
+	path = grand_child
+	url = https://github.com/mettizik/gitm_gchild.git
